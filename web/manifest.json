@@ -1,6 +1,6 @@
 {
-    "name": "smart_route_planner_app",
-    "short_name": "smart_route_planner_app",
+    "name": "smart_route_planner",
+    "short_name": "smart_route_planner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
